@@ -1,0 +1,1 @@
+Tenho uma Agenda de Contatos em Java, onde o usuário pode adicionar, listar e buscar contatos. Preciso de ajuda para adicionar a funcionalidade de remover um contato. Explique como fazer isso, que métodos criar na classe Agenda e como atualizar o menu no Program.java.
